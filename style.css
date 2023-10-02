@@ -47,6 +47,9 @@ button{
     font-size: 1em;
 }
 @media(max-width:480px){
+    .container{
+        margin:2% 10%;
+    }
     input{
         height: 60%;
         width: 80%;
